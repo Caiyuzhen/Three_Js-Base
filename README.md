@@ -1,2 +1,2 @@
-# Three_Js-Base
-🔷 Three_Js base learning~
+# 启动项目
+_npm run dev_

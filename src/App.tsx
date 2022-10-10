@@ -7,6 +7,7 @@ function App() {
 
   return (
     <div className="App">
+		<h2>three.js</h2>
 		<ExampleA/>
     </div>
   )
